@@ -1,0 +1,12 @@
+github.com/abibby/salusa v0.12.0 h1:yiJUK9qX6aPVap1sbYXkGTDp4+ChNuqAeq2LHRSwr3U=
+github.com/abibby/salusa v0.12.0/go.mod h1:yfSFzR738NTfpNF1LbEmJ1PcDSK5SYEAvLRr29O9KvQ=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
+github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
+github.com/google/osv-scanner v1.8.2 h1:RKWM1PGPO4uOuBNSa9PDKXGuWty9r0aPMsWQPwPxktM=
+github.com/google/osv-scanner v1.8.2/go.mod h1:6HWUWBUMVNXJTc8QI8R2tqn0SK5Gyt8YlRxgSzh2WNI=
+github.com/package-url/packageurl-go v0.1.3 h1:4juMED3hHiz0set3Vq3KeQ75KD1avthoXLtmE3I0PLs=
+github.com/package-url/packageurl-go v0.1.3/go.mod h1:nKAWB8E6uk1MHqiS/lQb9pYBGH2+mdJ2PJc2s50dQY0=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
